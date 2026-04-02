@@ -11,11 +11,13 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/parbezalam590/Leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0101-symmetric-tree](https://github.com/parbezalam590/Leetcode-solutions/tree/master/0101-symmetric-tree) |
+| [0207-course-schedule](https://github.com/parbezalam590/Leetcode-solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/parbezalam590/Leetcode-solutions/tree/master/0210-course-schedule-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/parbezalam590/Leetcode-solutions/tree/master/0101-symmetric-tree) |
+| [0207-course-schedule](https://github.com/parbezalam590/Leetcode-solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/parbezalam590/Leetcode-solutions/tree/master/0210-course-schedule-ii) |
 ## Binary Tree
 |  |
@@ -51,10 +53,12 @@
 ## Graph Theory
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/parbezalam590/Leetcode-solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/parbezalam590/Leetcode-solutions/tree/master/0210-course-schedule-ii) |
 ## Topological Sort
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/parbezalam590/Leetcode-solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/parbezalam590/Leetcode-solutions/tree/master/0210-course-schedule-ii) |
 ## Two Pointers
 |  |
