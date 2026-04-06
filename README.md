@@ -71,6 +71,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/parbezalam590/Leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/parbezalam590/Leetcode-solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## Simulation
 |  |
@@ -98,4 +99,12 @@
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/parbezalam590/Leetcode-solutions/tree/master/0547-number-of-provinces) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/parbezalam590/Leetcode-solutions/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/parbezalam590/Leetcode-solutions/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
