@@ -6,11 +6,13 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/parbezalam590/Leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0101-symmetric-tree](https://github.com/parbezalam590/Leetcode-solutions/tree/master/0101-symmetric-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/parbezalam590/Leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/parbezalam590/Leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0101-symmetric-tree](https://github.com/parbezalam590/Leetcode-solutions/tree/master/0101-symmetric-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/parbezalam590/Leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0207-course-schedule](https://github.com/parbezalam590/Leetcode-solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/parbezalam590/Leetcode-solutions/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/parbezalam590/Leetcode-solutions/tree/master/0547-number-of-provinces) |
@@ -26,6 +28,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/parbezalam590/Leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0101-symmetric-tree](https://github.com/parbezalam590/Leetcode-solutions/tree/master/0101-symmetric-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/parbezalam590/Leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Array
 |  |
 | ------- |
@@ -107,4 +110,8 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/parbezalam590/Leetcode-solutions/tree/master/0002-add-two-numbers) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/parbezalam590/Leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 <!---LeetCode Topics End-->
