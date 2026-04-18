@@ -81,6 +81,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/parbezalam590/Leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/parbezalam590/Leetcode-solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3783-mirror-distance-of-an-integer](https://github.com/parbezalam590/Leetcode-solutions/tree/master/3783-mirror-distance-of-an-integer) |
 ## Simulation
 |  |
 | ------- |
