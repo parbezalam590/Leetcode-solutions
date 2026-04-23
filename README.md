@@ -18,6 +18,7 @@
 | [0207-course-schedule](https://github.com/parbezalam590/Leetcode-solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/parbezalam590/Leetcode-solutions/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/parbezalam590/Leetcode-solutions/tree/master/0547-number-of-provinces) |
+| [1020-number-of-enclaves](https://github.com/parbezalam590/Leetcode-solutions/tree/master/1020-number-of-enclaves) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -28,6 +29,7 @@
 | [0210-course-schedule-ii](https://github.com/parbezalam590/Leetcode-solutions/tree/master/0210-course-schedule-ii) |
 | [0542-01-matrix](https://github.com/parbezalam590/Leetcode-solutions/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/parbezalam590/Leetcode-solutions/tree/master/0547-number-of-provinces) |
+| [1020-number-of-enclaves](https://github.com/parbezalam590/Leetcode-solutions/tree/master/1020-number-of-enclaves) |
 ## Binary Tree
 |  |
 | ------- |
@@ -41,6 +43,7 @@
 | [0130-surrounded-regions](https://github.com/parbezalam590/Leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/parbezalam590/Leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/parbezalam590/Leetcode-solutions/tree/master/0542-01-matrix) |
+| [1020-number-of-enclaves](https://github.com/parbezalam590/Leetcode-solutions/tree/master/1020-number-of-enclaves) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/parbezalam590/Leetcode-solutions/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/parbezalam590/Leetcode-solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/parbezalam590/Leetcode-solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
@@ -54,6 +57,7 @@
 | [0130-surrounded-regions](https://github.com/parbezalam590/Leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/parbezalam590/Leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/parbezalam590/Leetcode-solutions/tree/master/0542-01-matrix) |
+| [1020-number-of-enclaves](https://github.com/parbezalam590/Leetcode-solutions/tree/master/1020-number-of-enclaves) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/parbezalam590/Leetcode-solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2906-construct-product-matrix](https://github.com/parbezalam590/Leetcode-solutions/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/parbezalam590/Leetcode-solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -119,6 +123,7 @@
 | [0130-surrounded-regions](https://github.com/parbezalam590/Leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/parbezalam590/Leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/parbezalam590/Leetcode-solutions/tree/master/0547-number-of-provinces) |
+| [1020-number-of-enclaves](https://github.com/parbezalam590/Leetcode-solutions/tree/master/1020-number-of-enclaves) |
 ## Linked List
 |  |
 | ------- |
