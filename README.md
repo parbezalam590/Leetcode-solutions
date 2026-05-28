@@ -18,6 +18,7 @@
 | [0207-course-schedule](https://github.com/parbezalam590/Leetcode-solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/parbezalam590/Leetcode-solutions/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/parbezalam590/Leetcode-solutions/tree/master/0547-number-of-provinces) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/parbezalam590/Leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1020-number-of-enclaves](https://github.com/parbezalam590/Leetcode-solutions/tree/master/1020-number-of-enclaves) |
 ## Breadth-First Search
 |  |
@@ -29,6 +30,7 @@
 | [0210-course-schedule-ii](https://github.com/parbezalam590/Leetcode-solutions/tree/master/0210-course-schedule-ii) |
 | [0542-01-matrix](https://github.com/parbezalam590/Leetcode-solutions/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/parbezalam590/Leetcode-solutions/tree/master/0547-number-of-provinces) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/parbezalam590/Leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1020-number-of-enclaves](https://github.com/parbezalam590/Leetcode-solutions/tree/master/1020-number-of-enclaves) |
 ## Binary Tree
 |  |
@@ -78,6 +80,7 @@
 | [0207-course-schedule](https://github.com/parbezalam590/Leetcode-solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/parbezalam590/Leetcode-solutions/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/parbezalam590/Leetcode-solutions/tree/master/0547-number-of-provinces) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/parbezalam590/Leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Topological Sort
 |  |
 | ------- |
@@ -138,8 +141,17 @@
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/parbezalam590/Leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0542-01-matrix](https://github.com/parbezalam590/Leetcode-solutions/tree/master/0542-01-matrix) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/parbezalam590/Leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Greedy
 |  |
 | ------- |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/parbezalam590/Leetcode-solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/parbezalam590/Leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
+## Shortest Path
+|  |
+| ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/parbezalam590/Leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 <!---LeetCode Topics End-->
