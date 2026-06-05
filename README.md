@@ -47,6 +47,7 @@
 | [0130-surrounded-regions](https://github.com/parbezalam590/Leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/parbezalam590/Leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/parbezalam590/Leetcode-solutions/tree/master/0542-01-matrix) |
+| [0735-asteroid-collision](https://github.com/parbezalam590/Leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [1020-number-of-enclaves](https://github.com/parbezalam590/Leetcode-solutions/tree/master/1020-number-of-enclaves) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/parbezalam590/Leetcode-solutions/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/parbezalam590/Leetcode-solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -108,6 +109,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/parbezalam590/Leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/parbezalam590/Leetcode-solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## Sorting
 |  |
@@ -129,6 +131,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/parbezalam590/Leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0735-asteroid-collision](https://github.com/parbezalam590/Leetcode-solutions/tree/master/0735-asteroid-collision) |
 ## Union-Find
 |  |
 | ------- |
