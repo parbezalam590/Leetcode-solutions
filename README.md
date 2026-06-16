@@ -113,6 +113,7 @@
 | ------- |
 | [0735-asteroid-collision](https://github.com/parbezalam590/Leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/parbezalam590/Leetcode-solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3612-process-string-with-special-operations-i](https://github.com/parbezalam590/Leetcode-solutions/tree/master/3612-process-string-with-special-operations-i) |
 ## Sorting
 |  |
 | ------- |
@@ -125,6 +126,7 @@
 | ------- |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/parbezalam590/Leetcode-solutions/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/parbezalam590/Leetcode-solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [3612-process-string-with-special-operations-i](https://github.com/parbezalam590/Leetcode-solutions/tree/master/3612-process-string-with-special-operations-i) |
 ## Hash Table
 |  |
 | ------- |
