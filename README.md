@@ -100,6 +100,7 @@
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/parbezalam590/Leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0075-sort-colors](https://github.com/parbezalam590/Leetcode-solutions/tree/master/0075-sort-colors) |
+| [0234-palindrome-linked-list](https://github.com/parbezalam590/Leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/parbezalam590/Leetcode-solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/parbezalam590/Leetcode-solutions/tree/master/3643-flip-square-submatrix-vertically) |
 ## Math
@@ -135,6 +136,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/parbezalam590/Leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0234-palindrome-linked-list](https://github.com/parbezalam590/Leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0735-asteroid-collision](https://github.com/parbezalam590/Leetcode-solutions/tree/master/0735-asteroid-collision) |
 ## Union-Find
 |  |
@@ -149,10 +151,12 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/parbezalam590/Leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/parbezalam590/Leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0234-palindrome-linked-list](https://github.com/parbezalam590/Leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/parbezalam590/Leetcode-solutions/tree/master/0002-add-two-numbers) |
+| [0234-palindrome-linked-list](https://github.com/parbezalam590/Leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 ## Dynamic Programming
 |  |
 | ------- |
