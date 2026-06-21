@@ -50,6 +50,7 @@
 | [0735-asteroid-collision](https://github.com/parbezalam590/Leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [1020-number-of-enclaves](https://github.com/parbezalam590/Leetcode-solutions/tree/master/1020-number-of-enclaves) |
 | [1472-design-browser-history](https://github.com/parbezalam590/Leetcode-solutions/tree/master/1472-design-browser-history) |
+| [1833-maximum-ice-cream-bars](https://github.com/parbezalam590/Leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/parbezalam590/Leetcode-solutions/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/parbezalam590/Leetcode-solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/parbezalam590/Leetcode-solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
@@ -124,6 +125,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/parbezalam590/Leetcode-solutions/tree/master/0075-sort-colors) |
+| [1833-maximum-ice-cream-bars](https://github.com/parbezalam590/Leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/parbezalam590/Leetcode-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/parbezalam590/Leetcode-solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/parbezalam590/Leetcode-solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -178,6 +180,7 @@
 ## Greedy
 |  |
 | ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/parbezalam590/Leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/parbezalam590/Leetcode-solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/parbezalam590/Leetcode-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/parbezalam590/Leetcode-solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -206,4 +209,8 @@
 |  |
 | ------- |
 | [1472-design-browser-history](https://github.com/parbezalam590/Leetcode-solutions/tree/master/1472-design-browser-history) |
+## Counting Sort
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/parbezalam590/Leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
