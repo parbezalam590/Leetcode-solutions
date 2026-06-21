@@ -110,6 +110,7 @@
 | [0002-add-two-numbers](https://github.com/parbezalam590/Leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/parbezalam590/Leetcode-solutions/tree/master/0050-powx-n) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/parbezalam590/Leetcode-solutions/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1922-count-good-numbers](https://github.com/parbezalam590/Leetcode-solutions/tree/master/1922-count-good-numbers) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/parbezalam590/Leetcode-solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3783-mirror-distance-of-an-integer](https://github.com/parbezalam590/Leetcode-solutions/tree/master/3783-mirror-distance-of-an-integer) |
 ## Simulation
@@ -166,6 +167,7 @@
 | [0002-add-two-numbers](https://github.com/parbezalam590/Leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/parbezalam590/Leetcode-solutions/tree/master/0050-powx-n) |
 | [0234-palindrome-linked-list](https://github.com/parbezalam590/Leetcode-solutions/tree/master/0234-palindrome-linked-list) |
+| [1922-count-good-numbers](https://github.com/parbezalam590/Leetcode-solutions/tree/master/1922-count-good-numbers) |
 ## Dynamic Programming
 |  |
 | ------- |
