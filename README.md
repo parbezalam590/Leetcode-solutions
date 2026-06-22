@@ -133,6 +133,7 @@
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/parbezalam590/Leetcode-solutions/tree/master/0008-string-to-integer-atoi) |
+| [1189-maximum-number-of-balloons](https://github.com/parbezalam590/Leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/parbezalam590/Leetcode-solutions/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/parbezalam590/Leetcode-solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3612-process-string-with-special-operations-i](https://github.com/parbezalam590/Leetcode-solutions/tree/master/3612-process-string-with-special-operations-i) |
@@ -140,6 +141,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [1189-maximum-number-of-balloons](https://github.com/parbezalam590/Leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/parbezalam590/Leetcode-solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 ## Stack
 |  |
@@ -212,5 +214,6 @@
 ## Counting Sort
 |  |
 | ------- |
+| [1189-maximum-number-of-balloons](https://github.com/parbezalam590/Leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1833-maximum-ice-cream-bars](https://github.com/parbezalam590/Leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
