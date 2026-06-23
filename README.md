@@ -79,6 +79,7 @@
 | [2574-left-and-right-sum-differences](https://github.com/parbezalam590/Leetcode-solutions/tree/master/2574-left-and-right-sum-differences) |
 | [2906-construct-product-matrix](https://github.com/parbezalam590/Leetcode-solutions/tree/master/2906-construct-product-matrix) |
 | [3546-equal-sum-grid-partition-i](https://github.com/parbezalam590/Leetcode-solutions/tree/master/3546-equal-sum-grid-partition-i) |
+| [3699-number-of-zigzag-arrays-i](https://github.com/parbezalam590/Leetcode-solutions/tree/master/3699-number-of-zigzag-arrays-i) |
 ## Enumeration
 |  |
 | ------- |
@@ -179,6 +180,7 @@
 | [0542-01-matrix](https://github.com/parbezalam590/Leetcode-solutions/tree/master/0542-01-matrix) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/parbezalam590/Leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/parbezalam590/Leetcode-solutions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [3699-number-of-zigzag-arrays-i](https://github.com/parbezalam590/Leetcode-solutions/tree/master/3699-number-of-zigzag-arrays-i) |
 ## Greedy
 |  |
 | ------- |
