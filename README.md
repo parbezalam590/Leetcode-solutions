@@ -140,6 +140,7 @@
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/parbezalam590/Leetcode-solutions/tree/master/0008-string-to-integer-atoi) |
+| [0022-generate-parentheses](https://github.com/parbezalam590/Leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [1189-maximum-number-of-balloons](https://github.com/parbezalam590/Leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/parbezalam590/Leetcode-solutions/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/parbezalam590/Leetcode-solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
@@ -183,6 +184,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/parbezalam590/Leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/parbezalam590/Leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0542-01-matrix](https://github.com/parbezalam590/Leetcode-solutions/tree/master/0542-01-matrix) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/parbezalam590/Leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -245,4 +247,8 @@
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/parbezalam590/Leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/parbezalam590/Leetcode-solutions/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
