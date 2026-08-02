@@ -58,6 +58,7 @@
 | [0486-predict-the-winner](https://github.com/parbezalam590/Leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0542-01-matrix](https://github.com/parbezalam590/Leetcode-solutions/tree/master/0542-01-matrix) |
 | [0735-asteroid-collision](https://github.com/parbezalam590/Leetcode-solutions/tree/master/0735-asteroid-collision) |
+| [0877-stone-game](https://github.com/parbezalam590/Leetcode-solutions/tree/master/0877-stone-game) |
 | [1020-number-of-enclaves](https://github.com/parbezalam590/Leetcode-solutions/tree/master/1020-number-of-enclaves) |
 | [1301-number-of-paths-with-max-score](https://github.com/parbezalam590/Leetcode-solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1472-design-browser-history](https://github.com/parbezalam590/Leetcode-solutions/tree/master/1472-design-browser-history) |
@@ -135,6 +136,7 @@
 | [0002-add-two-numbers](https://github.com/parbezalam590/Leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/parbezalam590/Leetcode-solutions/tree/master/0050-powx-n) |
 | [0486-predict-the-winner](https://github.com/parbezalam590/Leetcode-solutions/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/parbezalam590/Leetcode-solutions/tree/master/0877-stone-game) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/parbezalam590/Leetcode-solutions/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1922-count-good-numbers](https://github.com/parbezalam590/Leetcode-solutions/tree/master/1922-count-good-numbers) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/parbezalam590/Leetcode-solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -211,6 +213,7 @@
 | [0486-predict-the-winner](https://github.com/parbezalam590/Leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0542-01-matrix](https://github.com/parbezalam590/Leetcode-solutions/tree/master/0542-01-matrix) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/parbezalam590/Leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0877-stone-game](https://github.com/parbezalam590/Leetcode-solutions/tree/master/0877-stone-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/parbezalam590/Leetcode-solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/parbezalam590/Leetcode-solutions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/parbezalam590/Leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -298,4 +301,5 @@
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/parbezalam590/Leetcode-solutions/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/parbezalam590/Leetcode-solutions/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
