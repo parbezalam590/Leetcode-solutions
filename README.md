@@ -61,6 +61,7 @@
 | [0877-stone-game](https://github.com/parbezalam590/Leetcode-solutions/tree/master/0877-stone-game) |
 | [1020-number-of-enclaves](https://github.com/parbezalam590/Leetcode-solutions/tree/master/1020-number-of-enclaves) |
 | [1301-number-of-paths-with-max-score](https://github.com/parbezalam590/Leetcode-solutions/tree/master/1301-number-of-paths-with-max-score) |
+| [1406-stone-game-iii](https://github.com/parbezalam590/Leetcode-solutions/tree/master/1406-stone-game-iii) |
 | [1472-design-browser-history](https://github.com/parbezalam590/Leetcode-solutions/tree/master/1472-design-browser-history) |
 | [1833-maximum-ice-cream-bars](https://github.com/parbezalam590/Leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/parbezalam590/Leetcode-solutions/tree/master/1848-minimum-distance-to-the-target-element) |
@@ -138,6 +139,7 @@
 | [0486-predict-the-winner](https://github.com/parbezalam590/Leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/parbezalam590/Leetcode-solutions/tree/master/0877-stone-game) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/parbezalam590/Leetcode-solutions/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1406-stone-game-iii](https://github.com/parbezalam590/Leetcode-solutions/tree/master/1406-stone-game-iii) |
 | [1922-count-good-numbers](https://github.com/parbezalam590/Leetcode-solutions/tree/master/1922-count-good-numbers) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/parbezalam590/Leetcode-solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3783-mirror-distance-of-an-integer](https://github.com/parbezalam590/Leetcode-solutions/tree/master/3783-mirror-distance-of-an-integer) |
@@ -216,6 +218,7 @@
 | [0877-stone-game](https://github.com/parbezalam590/Leetcode-solutions/tree/master/0877-stone-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/parbezalam590/Leetcode-solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/parbezalam590/Leetcode-solutions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1406-stone-game-iii](https://github.com/parbezalam590/Leetcode-solutions/tree/master/1406-stone-game-iii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/parbezalam590/Leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/parbezalam590/Leetcode-solutions/tree/master/3620-network-recovery-pathways) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/parbezalam590/Leetcode-solutions/tree/master/3699-number-of-zigzag-arrays-i) |
@@ -302,12 +305,15 @@
 | ------- |
 | [0486-predict-the-winner](https://github.com/parbezalam590/Leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/parbezalam590/Leetcode-solutions/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/parbezalam590/Leetcode-solutions/tree/master/1406-stone-game-iii) |
 ## Minimax
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/parbezalam590/Leetcode-solutions/tree/master/0486-predict-the-winner) |
+| [1406-stone-game-iii](https://github.com/parbezalam590/Leetcode-solutions/tree/master/1406-stone-game-iii) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/parbezalam590/Leetcode-solutions/tree/master/0486-predict-the-winner) |
+| [1406-stone-game-iii](https://github.com/parbezalam590/Leetcode-solutions/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
