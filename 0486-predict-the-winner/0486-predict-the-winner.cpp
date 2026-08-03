@@ -1,28 +1,34 @@
 class Solution {
 public:
+    int solve(int i, int j, vector<int>& nums) {
+        if (i > j)
+            return 0;
 
-    int dp[21][21];
+        if (i == j) {
+            return nums[i];
+        }
 
-    int solve(vector<int>& nums, int left, int right) {
+        int take_i =
+            nums[i] + min(solve(i + 2, j, nums), solve(i + 1, j - 1, nums));
 
-        // Only one element left
-        if (left == right)
-            return nums[left];
+        int take_j =
+            nums[j] + min(solve(i, j - 2, nums), solve(i +1 , j - 1, nums));
 
-        if (dp[left][right] != -1)
-            return dp[left][right];
-
-        // Pick left
-        int pickLeft = nums[left] - solve(nums, left + 1, right);
-
-        // Pick right
-        int pickRight = nums[right] - solve(nums, left, right - 1);
-
-        return dp[left][right] = max(pickLeft, pickRight);
+        return max(take_i, take_j);
     }
-    bool predictTheWinner(vector<int>& nums) {
-        memset(dp, -1, sizeof(dp));
 
-        return solve(nums, 0, nums.size() - 1) >= 0;
+    bool predictTheWinner(vector<int>& nums) {
+        int n = nums.size();
+
+        int totalScore = 0;
+        for (int i = 0; i < n; i++) {
+            totalScore += nums[i];
+        }
+
+        int p1Score = solve(0, n - 1, nums);
+
+        int p2Score = totalScore - p1Score;
+
+        return p1Score >= p2Score;
     }
 };
