@@ -148,6 +148,7 @@
 | [1922-count-good-numbers](https://github.com/parbezalam590/Leetcode-solutions/tree/master/1922-count-good-numbers) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/parbezalam590/Leetcode-solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/parbezalam590/Leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/parbezalam590/Leetcode-solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3783-mirror-distance-of-an-integer](https://github.com/parbezalam590/Leetcode-solutions/tree/master/3783-mirror-distance-of-an-integer) |
 ## Simulation
 |  |
@@ -175,6 +176,7 @@
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/parbezalam590/Leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/parbezalam590/Leetcode-solutions/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/parbezalam590/Leetcode-solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/parbezalam590/Leetcode-solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3612-process-string-with-special-operations-i](https://github.com/parbezalam590/Leetcode-solutions/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/parbezalam590/Leetcode-solutions/tree/master/3614-process-string-with-special-operations-ii) |
 ## Hash Table
@@ -236,6 +238,7 @@
 | [1833-maximum-ice-cream-bars](https://github.com/parbezalam590/Leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/parbezalam590/Leetcode-solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/parbezalam590/Leetcode-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/parbezalam590/Leetcode-solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/parbezalam590/Leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/parbezalam590/Leetcode-solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Heap (Priority Queue)
@@ -302,6 +305,7 @@
 | [0040-combination-sum-ii](https://github.com/parbezalam590/Leetcode-solutions/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/parbezalam590/Leetcode-solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/parbezalam590/Leetcode-solutions/tree/master/0090-subsets-ii) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/parbezalam590/Leetcode-solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -326,4 +330,8 @@
 | [0486-predict-the-winner](https://github.com/parbezalam590/Leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/parbezalam590/Leetcode-solutions/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/parbezalam590/Leetcode-solutions/tree/master/1406-stone-game-iii) |
+## Number Theory
+|  |
+| ------- |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/parbezalam590/Leetcode-solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 <!---LeetCode Topics End-->
