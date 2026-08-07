@@ -1,25 +1,26 @@
 class Solution {
 public:
+    int findProduct(int num) {
+
+        int product = 1;
+        while (num > 0) {
+            int digit = num % 10;
+            product *= digit;
+
+            if(product == 0) return 0;  // slight optimization 
+            num /= 10;
+        }
+        return product;
+    }
     int smallestNumber(int n, int t) {
 
-        //we will strart form n and then take out digits of n ..and do their product ..and if it is divisible by t 
-        int curr = n;
-
-        while(true) {
-            int product = 1;
-            int temp = curr;
-
-            while(temp > 0) {
-                int digit = temp % 10;
-                product *= digit;
-                temp /= 10;
-
+        for (int i = n; i <= n + 10;
+             i++) { // i <= n + 10 becoz  will come within steps and that makes
+                    // the product  , therefore alwas divisible
+            if (findProduct(i) % t == 0) {
+                return i;
             }
-            if(product % t == 0) {
-                return curr;
-            }
-            curr++;
         }
-        
+        return -1;
     }
 };
