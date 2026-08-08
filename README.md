@@ -133,6 +133,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/parbezalam590/Leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0075-sort-colors](https://github.com/parbezalam590/Leetcode-solutions/tree/master/0075-sort-colors) |
 | [0234-palindrome-linked-list](https://github.com/parbezalam590/Leetcode-solutions/tree/master/0234-palindrome-linked-list) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/parbezalam590/Leetcode-solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/parbezalam590/Leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/parbezalam590/Leetcode-solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/parbezalam590/Leetcode-solutions/tree/master/3643-flip-square-submatrix-vertically) |
@@ -176,6 +177,7 @@
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/parbezalam590/Leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/parbezalam590/Leetcode-solutions/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/parbezalam590/Leetcode-solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/parbezalam590/Leetcode-solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/parbezalam590/Leetcode-solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3612-process-string-with-special-operations-i](https://github.com/parbezalam590/Leetcode-solutions/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/parbezalam590/Leetcode-solutions/tree/master/3614-process-string-with-special-operations-ii) |
@@ -229,6 +231,7 @@
 | [1301-number-of-paths-with-max-score](https://github.com/parbezalam590/Leetcode-solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/parbezalam590/Leetcode-solutions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1406-stone-game-iii](https://github.com/parbezalam590/Leetcode-solutions/tree/master/1406-stone-game-iii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/parbezalam590/Leetcode-solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/parbezalam590/Leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/parbezalam590/Leetcode-solutions/tree/master/3620-network-recovery-pathways) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/parbezalam590/Leetcode-solutions/tree/master/3699-number-of-zigzag-arrays-i) |
@@ -238,6 +241,7 @@
 | [1833-maximum-ice-cream-bars](https://github.com/parbezalam590/Leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/parbezalam590/Leetcode-solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/parbezalam590/Leetcode-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/parbezalam590/Leetcode-solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/parbezalam590/Leetcode-solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/parbezalam590/Leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/parbezalam590/Leetcode-solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
