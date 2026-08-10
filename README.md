@@ -149,6 +149,7 @@
 | [1140-stone-game-ii](https://github.com/parbezalam590/Leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/parbezalam590/Leetcode-solutions/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1406-stone-game-iii](https://github.com/parbezalam590/Leetcode-solutions/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/parbezalam590/Leetcode-solutions/tree/master/1510-stone-game-iv) |
 | [1922-count-good-numbers](https://github.com/parbezalam590/Leetcode-solutions/tree/master/1922-count-good-numbers) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/parbezalam590/Leetcode-solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/parbezalam590/Leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -235,6 +236,7 @@
 | [1301-number-of-paths-with-max-score](https://github.com/parbezalam590/Leetcode-solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/parbezalam590/Leetcode-solutions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1406-stone-game-iii](https://github.com/parbezalam590/Leetcode-solutions/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/parbezalam590/Leetcode-solutions/tree/master/1510-stone-game-iv) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/parbezalam590/Leetcode-solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/parbezalam590/Leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/parbezalam590/Leetcode-solutions/tree/master/3620-network-recovery-pathways) |
@@ -327,6 +329,7 @@
 | [0877-stone-game](https://github.com/parbezalam590/Leetcode-solutions/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/parbezalam590/Leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/parbezalam590/Leetcode-solutions/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/parbezalam590/Leetcode-solutions/tree/master/1510-stone-game-iv) |
 ## Minimax
 |  |
 | ------- |
@@ -334,6 +337,7 @@
 | [0877-stone-game](https://github.com/parbezalam590/Leetcode-solutions/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/parbezalam590/Leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/parbezalam590/Leetcode-solutions/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/parbezalam590/Leetcode-solutions/tree/master/1510-stone-game-iv) |
 ## Zero-Sum Game
 |  |
 | ------- |
@@ -341,8 +345,17 @@
 | [0877-stone-game](https://github.com/parbezalam590/Leetcode-solutions/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/parbezalam590/Leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/parbezalam590/Leetcode-solutions/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/parbezalam590/Leetcode-solutions/tree/master/1510-stone-game-iv) |
 ## Number Theory
 |  |
 | ------- |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/parbezalam590/Leetcode-solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/parbezalam590/Leetcode-solutions/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/parbezalam590/Leetcode-solutions/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
