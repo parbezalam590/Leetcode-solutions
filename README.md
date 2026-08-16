@@ -70,6 +70,7 @@
 | [1848-minimum-distance-to-the-target-element](https://github.com/parbezalam590/Leetcode-solutions/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/parbezalam590/Leetcode-solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/parbezalam590/Leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2029-stone-game-ix](https://github.com/parbezalam590/Leetcode-solutions/tree/master/2029-stone-game-ix) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/parbezalam590/Leetcode-solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/parbezalam590/Leetcode-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2574-left-and-right-sum-differences](https://github.com/parbezalam590/Leetcode-solutions/tree/master/2574-left-and-right-sum-differences) |
@@ -153,6 +154,7 @@
 | [1406-stone-game-iii](https://github.com/parbezalam590/Leetcode-solutions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/parbezalam590/Leetcode-solutions/tree/master/1510-stone-game-iv) |
 | [1922-count-good-numbers](https://github.com/parbezalam590/Leetcode-solutions/tree/master/1922-count-good-numbers) |
+| [2029-stone-game-ix](https://github.com/parbezalam590/Leetcode-solutions/tree/master/2029-stone-game-ix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/parbezalam590/Leetcode-solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/parbezalam590/Leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/parbezalam590/Leetcode-solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -252,6 +254,7 @@
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/parbezalam590/Leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
+| [2029-stone-game-ix](https://github.com/parbezalam590/Leetcode-solutions/tree/master/2029-stone-game-ix) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/parbezalam590/Leetcode-solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/parbezalam590/Leetcode-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/parbezalam590/Leetcode-solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -294,6 +297,7 @@
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/parbezalam590/Leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1833-maximum-ice-cream-bars](https://github.com/parbezalam590/Leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
+| [2029-stone-game-ix](https://github.com/parbezalam590/Leetcode-solutions/tree/master/2029-stone-game-ix) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/parbezalam590/Leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Database
 |  |
@@ -337,6 +341,7 @@
 | [1140-stone-game-ii](https://github.com/parbezalam590/Leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/parbezalam590/Leetcode-solutions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/parbezalam590/Leetcode-solutions/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/parbezalam590/Leetcode-solutions/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
 | ------- |
@@ -345,6 +350,7 @@
 | [1140-stone-game-ii](https://github.com/parbezalam590/Leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/parbezalam590/Leetcode-solutions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/parbezalam590/Leetcode-solutions/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/parbezalam590/Leetcode-solutions/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
@@ -353,6 +359,7 @@
 | [1140-stone-game-ii](https://github.com/parbezalam590/Leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/parbezalam590/Leetcode-solutions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/parbezalam590/Leetcode-solutions/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/parbezalam590/Leetcode-solutions/tree/master/2029-stone-game-ix) |
 ## Number Theory
 |  |
 | ------- |
@@ -361,6 +368,7 @@
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/parbezalam590/Leetcode-solutions/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/parbezalam590/Leetcode-solutions/tree/master/2029-stone-game-ix) |
 ## Sprague–Grundy Theorem
 |  |
 | ------- |
