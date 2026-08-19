@@ -64,6 +64,7 @@
 | [1020-number-of-enclaves](https://github.com/parbezalam590/Leetcode-solutions/tree/master/1020-number-of-enclaves) |
 | [1140-stone-game-ii](https://github.com/parbezalam590/Leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/parbezalam590/Leetcode-solutions/tree/master/1301-number-of-paths-with-max-score) |
+| [1386-cinema-seat-allocation](https://github.com/parbezalam590/Leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/parbezalam590/Leetcode-solutions/tree/master/1406-stone-game-iii) |
 | [1472-design-browser-history](https://github.com/parbezalam590/Leetcode-solutions/tree/master/1472-design-browser-history) |
 | [1563-stone-game-v](https://github.com/parbezalam590/Leetcode-solutions/tree/master/1563-stone-game-v) |
@@ -198,6 +199,7 @@
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/parbezalam590/Leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
+| [1386-cinema-seat-allocation](https://github.com/parbezalam590/Leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/parbezalam590/Leetcode-solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/parbezalam590/Leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/parbezalam590/Leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -258,6 +260,7 @@
 ## Greedy
 |  |
 | ------- |
+| [1386-cinema-seat-allocation](https://github.com/parbezalam590/Leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
 | [1833-maximum-ice-cream-bars](https://github.com/parbezalam590/Leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [2029-stone-game-ix](https://github.com/parbezalam590/Leetcode-solutions/tree/master/2029-stone-game-ix) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/parbezalam590/Leetcode-solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
@@ -337,6 +340,7 @@
 | ------- |
 | [0078-subsets](https://github.com/parbezalam590/Leetcode-solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/parbezalam590/Leetcode-solutions/tree/master/0090-subsets-ii) |
+| [1386-cinema-seat-allocation](https://github.com/parbezalam590/Leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/parbezalam590/Leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Game Theory
 |  |
