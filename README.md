@@ -90,6 +90,7 @@
 | [3620-network-recovery-pathways](https://github.com/parbezalam590/Leetcode-solutions/tree/master/3620-network-recovery-pathways) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/parbezalam590/Leetcode-solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/parbezalam590/Leetcode-solutions/tree/master/3643-flip-square-submatrix-vertically) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/parbezalam590/Leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/parbezalam590/Leetcode-solutions/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/parbezalam590/Leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Matrix
@@ -213,6 +214,7 @@
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/parbezalam590/Leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/parbezalam590/Leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/parbezalam590/Leetcode-solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/parbezalam590/Leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/parbezalam590/Leetcode-solutions/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/parbezalam590/Leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Stack
