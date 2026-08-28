@@ -122,6 +122,7 @@
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/parbezalam590/Leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3546-equal-sum-grid-partition-i](https://github.com/parbezalam590/Leetcode-solutions/tree/master/3546-equal-sum-grid-partition-i) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/parbezalam590/Leetcode-solutions/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Graph Theory
 |  |
 | ------- |
@@ -150,6 +151,7 @@
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/parbezalam590/Leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/parbezalam590/Leetcode-solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/parbezalam590/Leetcode-solutions/tree/master/3643-flip-square-submatrix-vertically) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/parbezalam590/Leetcode-solutions/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Math
 |  |
 | ------- |
@@ -204,6 +206,7 @@
 | [3348-smallest-divisible-digit-product-ii](https://github.com/parbezalam590/Leetcode-solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3612-process-string-with-special-operations-i](https://github.com/parbezalam590/Leetcode-solutions/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/parbezalam590/Leetcode-solutions/tree/master/3614-process-string-with-special-operations-ii) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/parbezalam590/Leetcode-solutions/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Hash Table
 |  |
 | ------- |
