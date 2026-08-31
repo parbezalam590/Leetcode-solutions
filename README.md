@@ -167,6 +167,7 @@
 | [1563-stone-game-v](https://github.com/parbezalam590/Leetcode-solutions/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/parbezalam590/Leetcode-solutions/tree/master/1872-stone-game-viii) |
 | [1922-count-good-numbers](https://github.com/parbezalam590/Leetcode-solutions/tree/master/1922-count-good-numbers) |
+| [1927-sum-game](https://github.com/parbezalam590/Leetcode-solutions/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/parbezalam590/Leetcode-solutions/tree/master/2029-stone-game-ix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/parbezalam590/Leetcode-solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/parbezalam590/Leetcode-solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -199,6 +200,7 @@
 | [0008-string-to-integer-atoi](https://github.com/parbezalam590/Leetcode-solutions/tree/master/0008-string-to-integer-atoi) |
 | [0022-generate-parentheses](https://github.com/parbezalam590/Leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [1189-maximum-number-of-balloons](https://github.com/parbezalam590/Leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
+| [1927-sum-game](https://github.com/parbezalam590/Leetcode-solutions/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/parbezalam590/Leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/parbezalam590/Leetcode-solutions/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/parbezalam590/Leetcode-solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
@@ -277,6 +279,7 @@
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/parbezalam590/Leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
 | [1833-maximum-ice-cream-bars](https://github.com/parbezalam590/Leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
+| [1927-sum-game](https://github.com/parbezalam590/Leetcode-solutions/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/parbezalam590/Leetcode-solutions/tree/master/2029-stone-game-ix) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/parbezalam590/Leetcode-solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/parbezalam590/Leetcode-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -370,6 +373,7 @@
 | [1510-stone-game-iv](https://github.com/parbezalam590/Leetcode-solutions/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/parbezalam590/Leetcode-solutions/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/parbezalam590/Leetcode-solutions/tree/master/1872-stone-game-viii) |
+| [1927-sum-game](https://github.com/parbezalam590/Leetcode-solutions/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/parbezalam590/Leetcode-solutions/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
