@@ -95,6 +95,7 @@
 | [3718-smallest-missing-multiple-of-k](https://github.com/parbezalam590/Leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/parbezalam590/Leetcode-solutions/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/parbezalam590/Leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/parbezalam590/Leetcode-solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -177,6 +178,7 @@
 | [3348-smallest-divisible-digit-product-ii](https://github.com/parbezalam590/Leetcode-solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/parbezalam590/Leetcode-solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3783-mirror-distance-of-an-integer](https://github.com/parbezalam590/Leetcode-solutions/tree/master/3783-mirror-distance-of-an-integer) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/parbezalam590/Leetcode-solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Simulation
 |  |
 | ------- |
