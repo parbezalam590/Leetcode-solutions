@@ -206,6 +206,7 @@
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/parbezalam590/Leetcode-solutions/tree/master/0008-string-to-integer-atoi) |
 | [0022-generate-parentheses](https://github.com/parbezalam590/Leetcode-solutions/tree/master/0022-generate-parentheses) |
+| [0115-distinct-subsequences](https://github.com/parbezalam590/Leetcode-solutions/tree/master/0115-distinct-subsequences) |
 | [1189-maximum-number-of-balloons](https://github.com/parbezalam590/Leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1927-sum-game](https://github.com/parbezalam590/Leetcode-solutions/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/parbezalam590/Leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -269,6 +270,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/parbezalam590/Leetcode-solutions/tree/master/0022-generate-parentheses) |
+| [0115-distinct-subsequences](https://github.com/parbezalam590/Leetcode-solutions/tree/master/0115-distinct-subsequences) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/parbezalam590/Leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0486-predict-the-winner](https://github.com/parbezalam590/Leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0542-01-matrix](https://github.com/parbezalam590/Leetcode-solutions/tree/master/0542-01-matrix) |
