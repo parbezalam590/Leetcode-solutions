@@ -180,6 +180,7 @@
 | [3348-smallest-divisible-digit-product-ii](https://github.com/parbezalam590/Leetcode-solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/parbezalam590/Leetcode-solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3783-mirror-distance-of-an-integer](https://github.com/parbezalam590/Leetcode-solutions/tree/master/3783-mirror-distance-of-an-integer) |
+| [3871-count-commas-in-range-ii](https://github.com/parbezalam590/Leetcode-solutions/tree/master/3871-count-commas-in-range-ii) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/parbezalam590/Leetcode-solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Simulation
 |  |
