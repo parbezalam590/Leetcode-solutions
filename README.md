@@ -8,6 +8,7 @@
 | [0101-symmetric-tree](https://github.com/parbezalam590/Leetcode-solutions/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/parbezalam590/Leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/parbezalam590/Leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/parbezalam590/Leetcode-solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -23,6 +24,7 @@
 | [0787-cheapest-flights-within-k-stops](https://github.com/parbezalam590/Leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1020-number-of-enclaves](https://github.com/parbezalam590/Leetcode-solutions/tree/master/1020-number-of-enclaves) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/parbezalam590/Leetcode-solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/parbezalam590/Leetcode-solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3310-remove-methods-from-project](https://github.com/parbezalam590/Leetcode-solutions/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
@@ -47,6 +49,7 @@
 | [0101-symmetric-tree](https://github.com/parbezalam590/Leetcode-solutions/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/parbezalam590/Leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/parbezalam590/Leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/parbezalam590/Leetcode-solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Array
 |  |
 | ------- |
