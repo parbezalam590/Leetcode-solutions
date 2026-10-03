@@ -210,6 +210,7 @@
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/parbezalam590/Leetcode-solutions/tree/master/0008-string-to-integer-atoi) |
 | [0022-generate-parentheses](https://github.com/parbezalam590/Leetcode-solutions/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/parbezalam590/Leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/parbezalam590/Leetcode-solutions/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/parbezalam590/Leetcode-solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/parbezalam590/Leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
@@ -241,6 +242,7 @@
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/parbezalam590/Leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/parbezalam590/Leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/parbezalam590/Leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0735-asteroid-collision](https://github.com/parbezalam590/Leetcode-solutions/tree/master/0735-asteroid-collision) |
@@ -275,6 +277,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/parbezalam590/Leetcode-solutions/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/parbezalam590/Leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/parbezalam590/Leetcode-solutions/tree/master/0115-distinct-subsequences) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/parbezalam590/Leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0486-predict-the-winner](https://github.com/parbezalam590/Leetcode-solutions/tree/master/0486-predict-the-winner) |
@@ -439,4 +442,8 @@
 |  |
 | ------- |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/parbezalam590/Leetcode-solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/parbezalam590/Leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
