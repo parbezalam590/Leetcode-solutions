@@ -212,6 +212,7 @@
 | [0022-generate-parentheses](https://github.com/parbezalam590/Leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/parbezalam590/Leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/parbezalam590/Leetcode-solutions/tree/master/0115-distinct-subsequences) |
+| [0678-valid-parenthesis-string](https://github.com/parbezalam590/Leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0940-distinct-subsequences-ii](https://github.com/parbezalam590/Leetcode-solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/parbezalam590/Leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1927-sum-game](https://github.com/parbezalam590/Leetcode-solutions/tree/master/1927-sum-game) |
@@ -245,6 +246,7 @@
 | [0032-longest-valid-parentheses](https://github.com/parbezalam590/Leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/parbezalam590/Leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/parbezalam590/Leetcode-solutions/tree/master/0234-palindrome-linked-list) |
+| [0678-valid-parenthesis-string](https://github.com/parbezalam590/Leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/parbezalam590/Leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [1472-design-browser-history](https://github.com/parbezalam590/Leetcode-solutions/tree/master/1472-design-browser-history) |
 ## Union-Find
@@ -282,6 +284,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/parbezalam590/Leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0486-predict-the-winner](https://github.com/parbezalam590/Leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0542-01-matrix](https://github.com/parbezalam590/Leetcode-solutions/tree/master/0542-01-matrix) |
+| [0678-valid-parenthesis-string](https://github.com/parbezalam590/Leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/parbezalam590/Leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0877-stone-game](https://github.com/parbezalam590/Leetcode-solutions/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/parbezalam590/Leetcode-solutions/tree/master/0940-distinct-subsequences-ii) |
@@ -299,6 +302,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/parbezalam590/Leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [1386-cinema-seat-allocation](https://github.com/parbezalam590/Leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
 | [1833-maximum-ice-cream-bars](https://github.com/parbezalam590/Leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1927-sum-game](https://github.com/parbezalam590/Leetcode-solutions/tree/master/1927-sum-game) |
@@ -446,4 +450,5 @@
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/parbezalam590/Leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/parbezalam590/Leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
