@@ -213,6 +213,7 @@
 | [0032-longest-valid-parentheses](https://github.com/parbezalam590/Leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/parbezalam590/Leetcode-solutions/tree/master/0115-distinct-subsequences) |
 | [0678-valid-parenthesis-string](https://github.com/parbezalam590/Leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/parbezalam590/Leetcode-solutions/tree/master/0856-score-of-parentheses) |
 | [0940-distinct-subsequences-ii](https://github.com/parbezalam590/Leetcode-solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/parbezalam590/Leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1927-sum-game](https://github.com/parbezalam590/Leetcode-solutions/tree/master/1927-sum-game) |
@@ -248,6 +249,7 @@
 | [0234-palindrome-linked-list](https://github.com/parbezalam590/Leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0678-valid-parenthesis-string](https://github.com/parbezalam590/Leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/parbezalam590/Leetcode-solutions/tree/master/0735-asteroid-collision) |
+| [0856-score-of-parentheses](https://github.com/parbezalam590/Leetcode-solutions/tree/master/0856-score-of-parentheses) |
 | [1472-design-browser-history](https://github.com/parbezalam590/Leetcode-solutions/tree/master/1472-design-browser-history) |
 ## Union-Find
 |  |
@@ -451,4 +453,5 @@
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/parbezalam590/Leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/parbezalam590/Leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/parbezalam590/Leetcode-solutions/tree/master/0856-score-of-parentheses) |
 <!---LeetCode Topics End-->
